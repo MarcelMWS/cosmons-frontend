@@ -1,5 +1,7 @@
 # Cosmons Frontend
 
+![pic](src/assets/nft_winner.jpeg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
 ## Development server
@@ -7,6 +9,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Change your Contract addresses in environment.ts and environment.prod.ts
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+![pic](src/assets/illustrations_01.png)
+
+:warning: Blockchain is outdated. Deploy contracts on live networks: [https://github.com/CosmWasm/testnets](https://github.com/CosmWasm/testnets)
 
 For a live demo visit [https://hackatom.blockscape.network/](https://hackatom.blockscape.network/)
 
